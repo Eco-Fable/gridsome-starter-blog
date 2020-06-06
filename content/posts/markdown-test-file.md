@@ -2,7 +2,7 @@
 title: 'On Writing: Shakespeare and STEM'
 date: 2019-02-06
 published: true
-tags: ['Markdown','Test files']
+tags: ['Writing']
 canonical_url: false
 description: "Or, don't trust anyone who works in hiring and make blanket statements about how writing is only important in some professions."
 ---
