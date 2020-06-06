@@ -20,8 +20,8 @@ Good writing is not something that should be saved strictly for novels, or only 
 Not to mention that clear, articulate writing is also demonstrative of a higher level of professionalism. A manager probably wouldn’t look too kindly on a report handed in by one of their engineers that’s littered with grammatical and spelling errors. I highly doubt the manager would let this employee get away with it just because they didn’t study English in college. This manager isn’t going to read this report and consider their employee’s insights or perspectives. All they’re going to see is the employee’s mistakes. 
 
 Writing has persevered regardless of our advances in technology. Communities are built on our ability for storytelling. It enables us to learn and relate to one another, while also sharing valuable information. We engage with each one other through stories more easily than we can do with just facts or research results.This has become increasingly more important for the STEM field, especially at a time when science is being challenged by powerful officials on an almost daily basis. Researchers will always need to convey their work to the public in a way that is clear and easy to understand. Any progress in combatting climate change or COVID-19 means little if scientists can’t not only adequately share that knowledge with the rest of the population, but also get that population to care.  
-A paragraph is simply one or more consecutive lines of text, separated
-by one or more blank lines. (A blank line is any line that looks like a
+
+Now more than ever we’re using writing and storytelling to stay connected. We’re writing to friends and family to let them know we’re thinking of them. We’re writing to share stories of bravery, hope, as well as tales of disparities (singular?) in aid or medical response that need to be addressed. People are recording their experiences having the virus, thereby conveying the seriousness of the pandemic to others and encouraging them to stay safe.  
 blank line -- a line containing nothing but spaces or tabs is considered
 blank.) Normal paragraphs should not be indented with spaces or tabs.
 
