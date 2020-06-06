@@ -11,9 +11,9 @@ Earlier this year, before COVID lockdowns became the norm, a family member had h
 One of the invited guests worked as a recruiter in human resources for a major company. 
 This family member, a civil engineer by training and now a project manager, told me afterward that this guest told students she hardly, if ever, reads cover letters that are submitted in job applications. As someone who devotes hours to perfecting my letters, agonizing over word choice and sentence composition, this was not easy for me to hear. Quite frankly, it infuriated me. What really hit me though was her follow-up comment. When my family member asked this guest whether cover letters could provide insight into not just the applicant’s prior work experience but also their writing skills, this woman responded with, “Engineers don’t really need to know how to write.”
 
-While Markdown's syntax has been influenced by several existing text-to-HTML
-filters -- including [Setext](http://docutils.sourceforge.net/mirror/setext.html), [atx](http://www.aaronsw.com/2002/atx/), [Textile](http://textism.com/tools/textile/), [reStructuredText](http://docutils.sourceforge.net/rst.html),
-[Grutatext](http://www.triptico.com/software/grutatxt.html), and [EtText](http://ettext.taint.org/doc/) -- the single biggest source of
+I’m sorry, what?
+I was, and still am, shocked to hear this in 2020. Every profession requires writing in some capacity, including those in the STEM fields, and the idea that someone would tell young professionals otherwise angers me. I was glad to hear many of the engineering students attending the event fought back against this comment, and insisted to this recruiter that she was incorrect. 
+Good writing is not something that should be saved strictly for novels, or only taken seriously by high-brow English professors in their university offices. Writing is not something we suddenly stop caring about once we’ve turned in our last college essay before graduating. Good writing shows more than just whether or not someone knows how to put together a sentence. It sends a message to the reader that you took the time to compose a well-crafted response, and that you were thoughtful in conveying what you had to say.  
 inspiration for Markdown's syntax is the format of plain text email.
 
 ## Block Elements
