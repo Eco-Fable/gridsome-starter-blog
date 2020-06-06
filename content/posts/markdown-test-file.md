@@ -7,9 +7,9 @@ canonical_url: false
 description: 'Or, don't trust anyone who works in hiring and make blanket statements about how writing is only important in some professions.'
 ---
 
-Markdown is intended to be as easy-to-read and easy-to-write as is feasible.Readability, however, is emphasized above all else. A Markdown-formatted
-document should be publishable as-is, as plain text, without looking
-like it's been marked up with tags or formatting instructions.
+Earlier this year, before COVID lockdowns became the norm, a family member had helped to organize a career event for engineering students. 
+One of the invited guests worked as a recruiter in human resources for a major company. 
+This family member, a civil engineer by training and now a project manager, told me afterward that this guest told students she hardly, if ever, reads cover letters that are submitted in job applications. As someone who devotes hours to perfecting my letters, agonizing over word choice and sentence composition, this was not easy for me to hear. Quite frankly, it infuriated me. What really hit me though was her follow-up comment. When my family member asked this guest whether cover letters could provide insight into not just the applicant’s prior work experience but also their writing skills, this woman responded with, “Engineers don’t really need to know how to write.”
 
 While Markdown's syntax has been influenced by several existing text-to-HTML
 filters -- including [Setext](http://docutils.sourceforge.net/mirror/setext.html), [atx](http://www.aaronsw.com/2002/atx/), [Textile](http://textism.com/tools/textile/), [reStructuredText](http://docutils.sourceforge.net/rst.html),
