@@ -103,8 +103,11 @@ query Post ($id: ID!) {
       margin-top: 0;
     }
 
+    p {
+      text-indent: 65px;
+    }
+
     p:first-of-type {
-      font-size: 1.2em;
       color: var(--title-color);
     }
 

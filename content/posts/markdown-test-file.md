@@ -1,6 +1,6 @@
 ---
 title: 'On Writing: Shakespeare and STEM'
-date: 2019-14-06
+date: 2020-06-14
 published: true
 tags: ['Writing']
 canonical_url: false
