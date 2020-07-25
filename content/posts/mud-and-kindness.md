@@ -1,10 +1,10 @@
 ---
-title: Second Post
+title: 'Mud and Kindness'
 date: 2020-25-07
 published: true
 tags: ['']
 canonical_url: false
-path: 'second-post'
+path: 'mud-and-kindness'
 description: ''
 
 ---
