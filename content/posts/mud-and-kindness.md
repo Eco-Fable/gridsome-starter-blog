@@ -15,7 +15,7 @@ I joke how pessimism is my default setting, but that’s not entirely accurate. 
 
 As a seasonal research assistant, I was in Madison, Connecticut looking for Beech Leaf Disease along the Double Loop Trail on Warpas Road back in early June. There was no formal parking lot, just a bare strip of dirt and mud along the edge of the road at the trailhead. There was one car parked there already when I arrived, around 2:00 in the afternoon.
 
-I glanced out my window to survey the muddy patch carved with tire tracks, beyond which was a drier patch that I planned to park my car. It’s not that deep, I thought. I then backed up, pulled off the road, drove my car into the mud, and that is where it stayed. I pressed down on the gas, meeting more resistance than I expected. I could hear my tires spinning. I tried again, but my car remained stuck. I then turned off the engine and slid out of the car. My two front tires had sunk deep into the mud.
+I glanced out my window to survey the mud carved with tire tracks, beyond which was a drier patch that I planned to park my car. It’s not that deep, I thought. I then backed up, pulled off the road, drove my car into the mud, and that is where it stayed. I pressed down on the gas, meeting more resistance than I expected. I could hear my tires spinning. I tried again, but my car remained stuck. I then turned off the engine and slid out of the car. My two front tires had sunk deep into the mud.
 
 I grabbed my phone from the car and dialed my boss’s number. No answer. I then tried his cell. Still no answer. I left a voicemail for each number. I then leaned up against the driver’s side door, picking at a hangnail as I toyed with my phone in my other hand and waited for my boss to call me back.
 
