@@ -15,13 +15,13 @@ I joke how pessimism is my default setting, but that’s not entirely accurate. 
 
 As a seasonal research assistant, I was in Madison, Connecticut looking for Beech Leaf Disease along the Double Loop Trail on Warpas Road back in early June. There was no formal parking lot, just a bare strip of dirt and mud along the edge of the road at the trailhead. There was one car parked there already when I arrived, around 2:00 in the afternoon.
 
-I glanced out my window to survey the mud carved with tire tracks, beyond which was a drier patch that I planned to park my car. It’s not that deep, I thought. I then backed up, pulled off the road, drove my car into the mud, and that is where it stayed. I pressed down on the gas, meeting more resistance than I expected. I could hear my tires spinning. I tried again, but my car remained stuck. I then turned off the engine and slid out of the car. My two front tires had sunk deep into the mud.
+I glanced out my window to survey the mud carved with tire tracks, beyond which was a drier patch that I planned to park my car. <em> It’s not that deep, </em> I thought. I then backed up, pulled off the road, drove my car into the mud, and that is where it stayed. I pressed down on the gas, meeting more resistance than I expected. I could hear my tires spinning. I tried again, but my car remained stuck. I then turned off the engine and slid out of the car. My two front tires had sunk deep into the mud.
 
 I grabbed my phone from the car and dialed my boss’s number. No answer. I then tried his cell. Still no answer. I left a voicemail for each number. I then leaned up against the driver’s side door, picking at a hangnail as I toyed with my phone in my other hand and waited for my boss to call me back.
 
 The panic hadn’t set in just yet. This was refreshing, considering (as I’ve already established) I’m generally a glass-half-full kind of person. Mostly what I felt at the moment was embarrassment. It was only my third day of field work, and I was already causing problems. I was positive none of the other seasonals had experienced this before. They probably knew better than to try and drive through mud with only front wheel drive. I had already been hiking around the Westwoods Trail in Guilford that morning. I was tired. My hair, roped into a messy ponytail, resembled a frizzy tumbleweed. My arms were sticky with bug spray, and my T-shirt was clinging to my back sweat.
 
-How long was I going to be stuck like this? Would they need to send a tow truck? Oh, God. Should I head out on the trail and worry about this when I got back?
+<em>How long was I going to be stuck like this? Would they need to send a tow truck? Oh, God. Should I head out on the trail and worry about this when I got back?</em>
 
 I folded my arms and avoided looking at my caked tires. I glanced up at a tree about six feet from the car. From one of its outstretched branches I saw a cluster of leaves bearing distinct, dark green stripes along the bands. Beech Leaf Disease. Well, at least I didn’t have to look hard to find it.
 
