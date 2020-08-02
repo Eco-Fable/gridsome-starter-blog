@@ -1,13 +1,13 @@
 <template>
   <Layout :show-logo="false">
     <!-- Author intro -->
-    <Author :show-title="true" />
+    <!-- <Author :show-title="true" /> -->
+    <img src="../assets/images/logo-cropped.png" alt="Eco-Fable" />
 
     <!-- List posts -->
     <div class="posts">
-      <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node"/>
+      <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node" />
     </div>
-
   </Layout>
 </template>
 
@@ -47,3 +47,12 @@ export default {
   }
 }
 </script>
+
+
+<style scoped>
+img {
+  width: 65%;
+  margin: 0 auto;
+  display: flex;
+}
+</style>
