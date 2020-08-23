@@ -2,7 +2,8 @@
   <Layout :show-logo="false">
     <!-- Author intro -->
     <!-- <Author :show-title="true" /> -->
-    <img src="../assets/images/logo-cropped.png" alt="Eco-Fable" />
+    <img src="../assets/images/Coralogo-resized-final.png" alt="Eco-Fable" class="light-logo" />
+    <img src="../assets/images/Coralogo-inverted-full-resized_final.png" alt="Eco-Fable" class="dark-logo" />
 
     <!-- List posts -->
     <div class="posts">
@@ -51,7 +52,7 @@ export default {
 
 <style scoped>
 img {
-  width: 65%;
+  max-width: 30%;
   margin: 0 auto;
   display: flex;
 }

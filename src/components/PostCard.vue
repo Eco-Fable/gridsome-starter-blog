@@ -76,4 +76,10 @@ export default {
     z-index: 0;
   }
 }
+
+@media (max-width: 768px){
+  .post-card__title {
+    font-size: .8rem;
+  }
+}
 </style>
