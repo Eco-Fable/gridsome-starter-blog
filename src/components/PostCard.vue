@@ -48,6 +48,7 @@ export default {
 
   &__image {
     min-width: 100%;
+    padding-bottom: 20px;
   }
 
   &__title {
