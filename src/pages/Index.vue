@@ -52,8 +52,9 @@ export default {
 
 <style scoped>
 img {
-  max-width: 30%;
+  max-width: 50%;
   margin: 0 auto;
   display: flex;
+  padding-bottom: 30px;
 }
 </style>
