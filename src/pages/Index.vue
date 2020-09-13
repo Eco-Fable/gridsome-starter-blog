@@ -52,7 +52,7 @@ export default {
 
 <style scoped>
 img {
-  max-width: 50%;
+  max-width: 48%;
   margin: 0 auto;
   display: flex;
   margin-bottom: 35px;
