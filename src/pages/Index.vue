@@ -55,6 +55,6 @@ img {
   max-width: 50%;
   margin: 0 auto;
   display: flex;
-  padding-bottom: 30px;
+  margin-bottom: 35px;
 }
 </style>
