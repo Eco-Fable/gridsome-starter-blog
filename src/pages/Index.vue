@@ -57,4 +57,10 @@ img {
   display: flex;
   margin-bottom: 35px;
 }
+
+@media (max-width: 768px) {
+  img {
+    max-width: 75%;
+  }
+}
 </style>
