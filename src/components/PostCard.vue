@@ -76,6 +76,10 @@ export default {
     text-indent: -9999px;
     z-index: 0;
   }
+
+  &__description {
+    font-size: 0.8rem;
+  }
 }
 
 @media (max-width: 768px){
